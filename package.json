@@ -1,6 +1,6 @@
 {
-  "homepage": "https://minjul0501.github.io/website2",
-  "name": "website2",
+  "name": "website",
+  "homepage": "http://minjul0501.github.io/website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
